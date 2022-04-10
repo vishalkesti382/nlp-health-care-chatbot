@@ -1,0 +1,19 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Vishal
+bot : 
+user : How are you
+bot : - I am offline. at Dwarkadas J. Sanghvi College of Engineering as of now.
+user : I have fever
+bot : - - Can u book an appointment for me.
+user : Can you book an appointment for me
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : Patient Name: Vishal Date: 01/07/2022 Doctor: Vikram Hospital: KIMS
+bot : 
+user : 
+bot : - - What are your interests
+user : Movies
+bot : - Hello. How are you feeling today?
+user : Not great
+bot : - - My body temperature has raised.
+user : My body temperature has raised.
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
